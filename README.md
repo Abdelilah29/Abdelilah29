@@ -19,26 +19,28 @@ I am passionate about designing intuitive user experiences and building modern, 
 
 ## 🛠️ Tech Stack
 
-<!-- EDUCATION -->
+<!-- 🎓 ESTIN -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTIN%20Student-1E40AF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESTIN%20Student-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
 ---
 
-<!-- UI/UX DESIGN -->
+<!-- 🎨 UI/UX DESIGN -->
 <p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-3B82F6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-60A5FA?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-<!-- MAIN STACK -->
+<!-- 🧠 MERN STACK -->
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-1D4ED8?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-1E40AF?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
