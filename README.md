@@ -19,22 +19,27 @@ I am passionate about designing intuitive user experiences and building modern, 
 
 ## 🛠️ Tech Stack
 
+<!-- EDUCATION -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTIN-Computer%20Science%20Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/User%20Experience-6C63FF?style=for-the-badge&logo=adobe&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-00C7B7?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESTIN%20Student-1E40AF?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
+---
+
+<!-- UI/UX DESIGN -->
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-3B82F6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-60A5FA?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+<!-- MAIN STACK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1D4ED8?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ---
 
@@ -63,20 +68,12 @@ I am passionate about designing intuitive user experiences and building modern, 
 
 ---
 
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelilah29&label=Profile%20Views&color=blue" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌐 Web Development Projects
 
-* Responsive websites using HTML, CSS, JavaScript
 * UI/UX design prototypes using Figma
+* Responsive websites using HTML, CSS, JavaScript
 * MERN Stack practice projects (in progress)
 
 ---
