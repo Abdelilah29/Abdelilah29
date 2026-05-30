@@ -34,6 +34,11 @@ I am passionate about designing intuitive user experiences and building modern, 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20MERN-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-purple?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-green?style=for-the-badge&logo=rocket" />
+</p>
 
 ---
 
