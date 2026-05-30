@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelilah Khaled
+# 👋 Suiii !!! , I'm Benmoussa Abdelilah Khaled
 
 ### 🎨 UI/UX Designer | 💻 Aspiring Full-Stack Developer (MERN Stack)
 
@@ -20,7 +20,19 @@ I am passionate about designing intuitive user experiences and building modern, 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,c,git,github,figma,vscode" />
+  <img src="https://img.shields.io/badge/ESTIN-Computer%20Science%20Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/User%20Experience-6C63FF?style=for-the-badge&logo=adobe&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-00C7B7?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
