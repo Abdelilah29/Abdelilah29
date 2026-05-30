@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abdelilah Khaled 👋
 
-<!--
-**Abdelilah29/Abdelilah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at ESTIN
 
-Here are some ideas to get you started:
+🎨 UI/UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- C Programming
+
+💡 Interests
+- Web Development
+- UI/UX Design
+- Front-End Development
+
+🚀 Goals
+- Become a Full-Stack Developer
+- Build modern and user-friendly web applications
+
+## Connect with Me
+
+- GitHub: https://github.com/Abdelilah29
+- Instagram: https://www.instagram.com/abdelilah.khaled_/
+- Facebook: https://www.facebook.com/abdelilah.khaled.2025
