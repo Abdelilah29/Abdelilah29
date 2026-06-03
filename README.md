@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student at ESTIN (Higher School of Computer Science and Digital Technologies)
 
-I am passionate about designing intuitive user experiences and building modern, scalable web applications. I enjoy combining creativity (UI/UX design) with technical development to create meaningful digital products.
+Passionate about designing intuitive user experiences and building modern, scalable web applications. I combine creativity in UI/UX design with technical development to create impactful digital products that solve real-world problems.
 
 ---
 
