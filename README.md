@@ -93,13 +93,5 @@ Passionate about designing intuitive user experiences and building modern, scala
 
 ---
 
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/Abdelilah29
-* Instagram: https://www.instagram.com/abdelilah.khaled_/
-* Facebook: https://www.facebook.com/abdelilah.khaled.2025
-
----
-
 ## ✨ Motto
 “Hard work beats talent when talent doesn’t work hard. Discipline and consistency always win in the long run.”
