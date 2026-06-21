@@ -1,6 +1,6 @@
 # “Hello World 👋 — I'm Benmoussa Abdelilah Khaled
 
-### ESTIN Student | Exploring AI & Technology | UI/UX Designer | Graphic Design Learner | MERN Stack Developer in Progress
+### Computer Scinece Student at ESTIN | Exploring AI & Technology | UI/UX Designer | Graphic Design Learner | MERN Stack Developer in Progress
 
 🎓 Computer Science Student at ESTIN (Higher School of Computer Science and Digital Technologies)
 
