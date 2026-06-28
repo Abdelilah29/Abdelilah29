@@ -1,6 +1,6 @@
 # “Hello World 👋 — I'm Benmoussa Abdelilah Khaled
 
-### Computer Scinece Student at ESTIN | Exploring AI & Technology | UI/UX Designer | Graphic Design Learner | MERN Stack Developer in Progress
+### Computer Science Student at ESTIN | Exploring AI & Technology | UI/UX Designer | Graphic Design Learner | MERN Stack Developer in Progress
 
 🎓 Computer Science Student at ESTIN (Higher School of Computer Science and Digital Technologies)
 
@@ -19,22 +19,15 @@ Passionate about designing intuitive user experiences and building modern, scala
 
 ## 🛠️ Tech Stack
 
-<!-- 🎓 ESTIN -->
 <p align="center">
   <img src="https://img.shields.io/badge/ESTIN%20Student-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
----
-
-<!-- 🎨 UI/UX DESIGN -->
 <p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-60A5FA?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-<!-- 🧠 MERN STACK -->
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
@@ -45,12 +38,10 @@ Passionate about designing intuitive user experiences and building modern, scala
 
 ---
 
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelilah29&theme=tokyonight" alt="Abdelilah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelilah29&theme=tokyonight" alt="Abdelilah's GitHub Streak" />
 </p>
 
 ---
@@ -64,8 +55,6 @@ Passionate about designing intuitive user experiences and building modern, scala
 <sub>✨ Turning commits into motion</sub>
 
 </div>
-
----
 
 ---
 
