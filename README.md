@@ -45,10 +45,12 @@ Passionate about designing intuitive user experiences and building modern, scala
 
 ---
 
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelilah29&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Abdelilah29&theme=tokyonight" alt="Abdelilah's GitHub Streak" />
 </p>
 
 ---
@@ -57,11 +59,13 @@ Passionate about designing intuitive user experiences and building modern, scala
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Abdelilah29/Abdelilah29/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 
 <sub>✨ Turning commits into motion</sub>
 
 </div>
+
+---
 
 ---
 
